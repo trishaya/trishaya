@@ -1,6 +1,8 @@
 <h1 align="left">Hello, I'm Trisha!</h1>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
+- 🔭 I’m currently pursuing **B.Sc (Hons) - Computer Science**
+
 - 🌱 I’m currently learning **java, CSS**
 
 - 🤝 I’m looking for help with creating text based games. If you have any knowledge and experience in this field, please reach out to me via my email.
