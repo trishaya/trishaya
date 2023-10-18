@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently pursuing **B.Sc (Hons) - Computer Science**
 
-- 🌱 I’m currently learning **java, CSS**
-
-- 🤝 I’m looking for help with creating text based games. If you have any knowledge and experience in this field, please reach out to me via my email.
+- 🌱 I’m currently learning **CSS**
 
 - 📝 I have been an editor of an internationl magazine and do a bit of content writing. My work has been published in various anthologies and literary magazines. 
 
